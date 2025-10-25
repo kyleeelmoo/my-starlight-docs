@@ -1,6 +1,6 @@
 # Dominguez-Morata
 
-[![Built with Gabriella](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+[![Built with Gabriella](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://kyliigabriella.xyz
 
 ```
 npm create astro@latest -- --template programmer
@@ -15,19 +15,19 @@ npm create astro@latest -- --template programmer
 
 <!-- ASTRO:REMOVE:END -->
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> 🧑‍🚀 **green kush?** Delete this file. Have fun!
 
 ## 🚀 Project Structure
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+Inside of your Astro + dominguez-morata project, you'll see the following folders and files:
 
 ```
 .
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
+├── public/open
+├── src/blank folder
+│   ├── assets/ empty 
+│   ├── content/empty
+│   │   └── docs/empty
 │   └── content.config.ts
 ├── astro.config.mjs
 ├── package.json
@@ -53,6 +53,6 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+##  Want to learn more? click here
 
-Check out [Kylii's docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Check out [Kylii's docs](https://kyliigabriella.xyz//), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
